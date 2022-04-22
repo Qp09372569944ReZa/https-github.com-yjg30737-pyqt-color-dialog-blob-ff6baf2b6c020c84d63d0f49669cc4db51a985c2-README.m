@@ -1,0 +1,1 @@
+# https-github.com-yjg30737-pyqt-color-dialog-blob-ff6baf2b6c020c84d63d0f49669cc4db51a985c2-README.m
